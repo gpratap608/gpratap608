@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Ganesh  and I'm a Pre Final Year student, from ABESIT ghaziabad</h2>
+<h2 align="left">Hi 👋! My name is Ganesh and I'm a Pre Final Year Student, from ABESIT Ghaziabad</h2>
 
 ###
 
@@ -64,5 +64,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/gpratap608/gpratap608/output/snake.svg" alt="Snake animation" />
 
 ###
