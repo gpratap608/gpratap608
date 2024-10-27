@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ganesh and I'm a Pre Final Year Student, from ABESIT Ghaziabad</h2>
+
 
 ###
 
