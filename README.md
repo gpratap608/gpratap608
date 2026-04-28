@@ -138,8 +138,32 @@ $ cat skills.json
 $ uptime
   > Profile views counted below
 ```
-<img src="[https://github.com/gpratap608.jpg](https://avatars.githubusercontent.com/u/113552039?v=4)"/>
 
+<img src="https://profile-counter.glitch.me/gpratap608/count.svg"/>
+
+<br/><br/>
+
+<!-- Profile Banner with Circular Avatar -->
+<table>
+  <tr>
+    <td align="center" style="background-color:#0d1117; padding: 30px; border-radius: 20px;">
+      <img
+        src="https://avatars.githubusercontent.com/u/113552039?v=4"
+        width="160"
+        height="160"
+        style="border-radius: 50%; border: 4px solid #00FF41; display: block; margin: 0 auto;"
+      />
+      <br/>
+      <strong style="font-size:20px; color:#00FF41;">Ganesh Pratap Singh</strong>
+      <br/>
+      <sub>Full Stack Developer &nbsp;|&nbsp; India 🇮🇳</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Open%20to%20Work-00FF41?style=for-the-badge&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ```
 > Thanks for visiting. Don't forget to ⭐ something.
