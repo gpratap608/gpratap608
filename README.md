@@ -148,11 +148,7 @@ $ uptime
   <tr>
     <td align="center" style="background-color:#0d1117; padding: 30px; border-radius: 20px;">
       
-      <br/>
-      <strong style="font-size:20px; color:#00FF41;">Ganesh Pratap Singh</strong>
-      <br/>
-      <sub>Full Stack Developer &nbsp;|&nbsp; India 🇮🇳</sub>
-      <br/><br/>
+      
       <img src="https://img.shields.io/badge/Open%20to%20Work-00FF41?style=for-the-badge&logoColor=black"/>
     </td>
   </tr>
