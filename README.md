@@ -158,7 +158,7 @@ $ uptime
       <br/>
       <sub>Full Stack Developer &nbsp;|&nbsp; India 🇮🇳</sub>
       <br/><br/>
-      
+      <img src="https://img.shields.io/badge/Open%20to%20Work-00FF41?style=for-the-badge&logoColor=black"/>
     </td>
   </tr>
 </table>
