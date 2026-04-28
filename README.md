@@ -138,7 +138,7 @@ $ cat skills.json
 $ uptime
   > Profile views counted below
 ```
-<img src="https://github.com/gpratap608.jpg"/>
+<img src="[https://github.com/gpratap608.jpg](https://avatars.githubusercontent.com/u/113552039?v=4)"/>
 
 
 ```
