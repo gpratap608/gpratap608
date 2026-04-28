@@ -138,8 +138,8 @@ $ cat skills.json
 $ uptime
   > Profile views counted below
 ```
+<img src="https://github.com/gpratap608.jpg"/>
 
-<img src="https://profile-counter.glitch.me/gpratap608/count.svg"/>
 
 ```
 > Thanks for visiting. Don't forget to ⭐ something.
