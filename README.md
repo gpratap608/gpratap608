@@ -139,7 +139,7 @@ $ uptime
   > Profile views counted below
 ```
 
-<img src="https://profile-counter.glitch.me/gpratap608/count.svg"/>
+
 
 <br/><br/>
 
